@@ -1,6 +1,6 @@
-## Version 1.0.6
+##base file by
 ## By Addison Djatschenko and some other editors on GitHub.
-
+## https://github.com/AddisonPascal/Python-Dice-Roller.git
 ##########################################################
 
 ## Allows random numbers to be used in the file
