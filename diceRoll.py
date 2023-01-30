@@ -1,5 +1,4 @@
-##base file by
-## By Addison Djatschenko and some other editors on GitHub.
+##base file By Addison Djatschenko and some other editors on GitHub.
 ## https://github.com/AddisonPascal/Python-Dice-Roller.git
 ##########################################################
 
