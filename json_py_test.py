@@ -8,11 +8,8 @@ fightAttr = ["name","meta","Armor Class","Hit Points","Speed","STR","DEX","CON",
 class creature:
   def findCreature(creature):
     num = 0
-    print(len(li))
     for item in li:
-      print(li[num])
       if li[num] == creature:
-        print("yo")
         return json.dumps(jsonObj[num], indent = 4, sort_keys=False,ensure_ascii=True)
       num = num + 1
 
@@ -24,6 +21,32 @@ class creature:
       if name == cratureName:
         return item.get(key)
 
+def createChar():
+  attributes = {
+    "name": input("What is there name? "),
+    "race": input("what is their race? "),
+    "Armor Class": input("What is their AC? "),
+    "Hit Points": input("What is their HP? "),
+    "Speed": input("what is there speed? "),
+    "STR": input("STR? "),
+    "STR_mod": input("STR mod? "),
+    "DEX": input("Dex? "),
+    "DEX_mod": input("Dex mod"),
+    "CON": input("Con? "),
+    "CON_mod": input("Con mod? "),
+    "INT": input("Int? "),
+    "INT_mod": input("Int mod? "),
+    "WIS": input("Wis? "),
+    "WIS_mod": input("Wis mod? "),
+    "CHA": input("Cha? "),
+    "CHA_mod": input("Cha mod? "),
+    }
+
+  with open("PCs.json", "r+") as jsonFile:
+    exfile = json.load(jsonFile)
+    exfile["PCs"].append(attributes)
+    jsonFile.seek(0)
+    json.dump(exfile,jsonFile, indent=4)
 
 def main():
 
@@ -62,10 +85,8 @@ def runCreature():
     jsonObj = json.load(jsonFile, strict = False)
     jsonFile.close()
 
-
   global li
   li = [item.get("name")for item in jsonObj]
-  print(li)
+  (li)
 
-  time.sleep(2)
   main()
