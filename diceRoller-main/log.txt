@@ -1,0 +1,2109 @@
+-------------start program-------------------
+2023-05-26 18:32:27.316180
+running diceSection
+running leabelText
+Sides = 1
+Sides = 2
+Sides = 3
+Sides = 4
+Sides = 5
+Sides = 6
+Sides = 7
+Sides = 8
+Sides = 9
+Sides = 10
+Sides = 11
+Times = 1
+Times = 2
+Times = 3
+Times = 4
+Times = 5
+Times = 6
+Times = 7
+Times = 8
+Times = 9
+Times = 10
+Times = 11
+running addRoll
+[11, 3, 8, 7, 5, 10, 4, 1, 11, 6, 4]
+runing windowDestroy
+running diceSection
+running leabelText
+-------------start program-------------------
+2023-05-26 18:34:19.038051
+running diceSection
+running leabelText
+Sides = 1
+Sides = 2
+Sides = 3
+Sides = 4
+Sides = 5
+Sides = 6
+Sides = 7
+Sides = 8
+Sides = 9
+Sides = 10
+Times = 1
+Times = 2
+Times = 3
+Times = 4
+Times = 5
+Times = 6
+Times = 7
+Times = 8
+Times = 9
+Times = 10
+Times = 11
+Times = 12
+Times = 13
+Times = 14
+Times = 15
+Times = 16
+running addRoll
+[2, 9, 6, 10, 10, 7, 8, 1, 8, 7, 6, 3, 4, 3, 5, 10]
+-------------start program-------------------
+2023-05-26 18:37:06.072544
+-------------start program-------------------
+2023-05-27 14:04:42.180097
+-------------start program-------------------
+2023-05-27 14:05:01.273171
+running diceSection
+running leabelText
+-------------start program-------------------
+2023-05-27 14:06:21.560691
+-------------start program-------------------
+2023-05-27 14:06:51.376352
+-------------start program-------------------
+2023-05-27 14:08:10.908951
+-------------start program-------------------
+2023-05-27 14:08:48.269450
+running diceSection
+running leabelText
+-------------start program-------------------
+2023-05-27 14:38:27.204852
+running diceSection
+running leabelText
+-------------start program-------------------
+2023-05-27 14:39:14.606575
+running diceSection
+running leabelText
+-------------start program-------------------
+2023-05-27 14:46:37.637126
+running diceSection
+-------------start program-------------------
+2023-05-27 14:47:34.673997
+running diceSection
+running leabelText
+Sides = 1
+Sides = 2
+Sides = 3
+Sides = 4
+Sides = 5
+Sides = 6
+Sides = 7
+Sides = 8
+Sides = 9
+Times = 1
+Times = 2
+Times = 3
+Times = 4
+Times = 5
+running addRoll
+[4, 7, 9, 2, 1]
+Sides = 1
+Sides = 2
+Sides = 3
+Sides = 4
+Sides = 5
+Sides = 6
+Sides = 7
+Sides = 8
+Sides = 9
+Sides = 10
+Sides = 11
+Sides = 12
+Sides = 13
+Sides = 14
+Sides = 15
+Sides = 16
+Sides = 17
+Sides = 18
+Sides = 19
+Sides = 20
+Times = 1
+Times = 2
+Times = 3
+Times = 4
+Times = 5
+Times = 6
+Times = 7
+Times = 8
+Times = 9
+Times = 10
+running addRoll
+[3, 2, 5, 9, 11, 1, 13, 8, 2, 18]
+Sides = 1
+Sides = 2
+Sides = 3
+Sides = 4
+Sides = 5
+Sides = 6
+Sides = 7
+Sides = 8
+Sides = 9
+Sides = 10
+Sides = 11
+Sides = 12
+Sides = 13
+Sides = 14
+Sides = 15
+Sides = 16
+Times = 1
+Times = 2
+Times = 3
+Times = 4
+Times = 5
+Times = 6
+Times = 7
+Times = 8
+Times = 9
+Times = 10
+Times = 11
+Times = 12
+Times = 13
+Times = 14
+Times = 15
+Times = 16
+Times = 17
+Times = 18
+Times = 19
+Times = 20
+Times = 21
+Times = 22
+Times = 23
+Times = 24
+Times = 25
+Times = 26
+Times = 27
+Times = 28
+running addRoll
+[8, 3, 8, 3, 13, 12, 11, 5, 6, 6, 5, 7, 14, 3, 12, 2, 9, 12, 16, 11, 12, 9, 3, 6, 10, 15, 11, 3]
+-------------start program-------------------
+2023-05-27 14:49:09.306548
+running diceSection
+running leabelText
+-------------start program-------------------
+2023-05-28 22:14:10.939383
+-------------start program-------------------
+2023-05-28 22:15:47.925199
+running diceSection
+running leabelText
+-------------start program-------------------
+2023-05-28 22:16:27.017981
+running diceSection
+running leabelText
+-------------start program-------------------
+2023-05-28 22:16:51.188646
+running diceSection
+running leabelText
+-------------start program-------------------
+2023-05-28 22:17:15.392951
+-------------start program-------------------
+2023-05-28 22:18:07.631079
+running diceSection
+running leabelText
+-------------start program-------------------
+2023-05-28 22:21:23.029660
+running diceSection
+running leabelText
+-------------start program-------------------
+2023-05-28 22:29:20.772072
+running diceSection
+-------------start program-------------------
+2023-05-28 22:30:00.064642
+running diceSection
+-------------start program-------------------
+2023-05-28 22:33:04.724787
+running diceSection
+-------------start program-------------------
+2023-05-28 22:42:55.342498
+running diceSection
+-------------start program-------------------
+2023-05-28 22:43:25.649785
+running diceSection
+running diceSection
+running diceSection
+running diceSection
+running diceSection
+running diceSection
+running diceSection
+running diceSection
+running diceSection
+running diceSection
+running diceSection
+running diceSection
+-------------start program-------------------
+2023-05-28 22:44:22.752531
+running diceSection
+Sides = 1
+Sides = 2
+Sides = 3
+Sides = 4
+Sides = 5
+Sides = 6
+Sides = 7
+Sides = 8
+Sides = 9
+Sides = 10
+Sides = 11
+Sides = 12
+Sides = 13
+Sides = 14
+Sides = 15
+Sides = 16
+Sides = 17
+Sides = 18
+Sides = 19
+Sides = 20
+Times = 1
+Times = 2
+Times = 3
+Times = 4
+Times = 5
+Times = 6
+Times = 7
+running addRoll
+[7, 13, 9, 7, 3, 4, 10]
+Sides = 1
+Sides = 2
+Sides = 3
+Sides = 4
+Sides = 5
+Sides = 6
+Sides = 7
+Sides = 8
+Sides = 9
+Sides = 10
+Sides = 11
+Sides = 12
+Sides = 13
+Sides = 14
+Sides = 15
+Sides = 16
+Sides = 17
+Sides = 18
+Sides = 19
+Sides = 20
+Sides = 21
+Sides = 22
+Sides = 23
+Sides = 22
+Sides = 21
+Sides = 20
+Times = 1
+Times = 2
+Times = 3
+Times = 4
+Times = 5
+Times = 6
+Times = 7
+Times = 8
+Times = 9
+Times = 10
+Times = 11
+Times = 12
+Times = 13
+Times = 14
+Times = 15
+Times = 16
+Times = 17
+Times = 18
+Times = 19
+Times = 20
+Times = 21
+Times = 22
+Times = 23
+Times = 24
+Times = 25
+Times = 26
+Times = 27
+Times = 28
+Times = 29
+Times = 30
+Times = 31
+Times = 32
+Times = 33
+Times = 34
+Times = 35
+Times = 36
+Times = 37
+Times = 38
+Times = 39
+Times = 40
+running addRoll
+[14, 15, 2, 7, 19, 4, 6, 15, 5, 9, 19, 6, 15, 6, 20, 11, 18, 1, 2, 6, 7, 2, 5, 4, 17, 20, 7, 17, 11, 9, 7, 3, 12, 4, 5, 6, 19, 1, 8, 8]
+-------------start program-------------------
+2023-05-28 22:52:47.273704
+running diceSection
+-------------start program-------------------
+2023-05-28 22:54:47.276898
+running diceSection
+Sides = 1
+Sides = 2
+Sides = 3
+Sides = 4
+Sides = 5
+Times = 1
+Sides = 6
+Sides = 7
+Sides = 8
+Sides = 9
+Sides = 10
+Sides = 11
+Sides = 12
+Sides = 13
+Sides = 14
+Times = 2
+Times = 3
+Times = 4
+Times = 5
+Times = 6
+Times = 7
+running addRoll
+[14, 4, 13, 4, 2, 9, 1]
+-------------start program-------------------
+2023-05-28 22:56:35.492705
+running diceSection
+-------------start program-------------------
+2023-05-28 22:57:07.898814
+running diceSection
+-------------start program-------------------
+2023-05-28 22:57:23.360060
+running diceSection
+-------------start program-------------------
+2023-05-28 22:57:47.155439
+running diceSection
+runing tab1Destroy
+-------------start program-------------------
+2023-05-28 23:01:12.486040
+running diceSection
+Sides = 1
+Sides = 2
+Sides = 3
+Sides = 4
+Sides = 5
+Sides = 6
+Sides = 7
+Sides = 8
+Sides = 9
+Sides = 10
+Sides = 11
+Sides = 12
+Sides = 13
+Sides = 14
+Sides = 15
+Sides = 16
+Sides = 17
+Sides = 18
+Sides = 19
+Sides = 20
+Sides = 21
+Sides = 22
+Sides = 23
+Sides = 24
+Sides = 25
+Sides = 26
+Sides = 27
+Sides = 28
+-------------start program-------------------
+2023-05-28 23:05:11.486205
+running diceSection
+-------------start program-------------------
+2023-05-28 23:05:49.897848
+running diceSection
+-------------start program-------------------
+2023-05-28 23:06:05.869265
+running diceSection
+-------------start program-------------------
+2023-05-28 23:06:48.928732
+running diceSection
+-------------start program-------------------
+2023-05-28 23:07:06.748669
+running diceSection
+-------------start program-------------------
+2023-05-28 23:09:35.268815
+running diceSection
+-------------start program-------------------
+2023-05-28 23:09:52.928711
+running diceSection
+-------------start program-------------------
+2023-05-28 23:11:24.976464
+running diceSection
+-------------start program-------------------
+2023-05-28 23:11:37.764935
+running diceSection
+-------------start program-------------------
+2023-05-28 23:11:48.015889
+running diceSection
+-------------start program-------------------
+2023-05-28 23:13:00.433718
+running diceSection
+-------------start program-------------------
+2023-05-28 23:13:54.565788
+running diceSection
+-------------start program-------------------
+2023-05-28 23:14:04.305967
+running diceSection
+-------------start program-------------------
+2023-05-28 23:14:35.525248
+running diceSection
+running addRoll
+[]
+runing tab1Destroy
+-------------start program-------------------
+2023-05-28 23:15:24.988996
+running diceSection
+-------------start program-------------------
+2023-05-28 23:21:14.275136
+running diceSection
+-------------start program-------------------
+2023-05-28 23:24:58.302170
+running diceSection
+runing tab1Destroy
+-------------start program-------------------
+2023-05-28 23:26:02.733243
+running diceSection
+-------------start program-------------------
+2023-05-28 23:26:45.046041
+running diceSection
+running addRoll
+[]
+running addRoll
+[]
+running addRoll
+[]
+running addRoll
+[]
+running addRoll
+[]
+running addRoll
+[]
+running addRoll
+[]
+running addRoll
+[]
+-------------start program-------------------
+2023-05-28 23:27:03.940881
+running diceSection
+runing tab1Destroy
+-------------start program-------------------
+2023-05-28 23:27:49.441971
+running diceSection
+running addRoll
+[]
+running addRoll
+[]
+running addRoll
+[]
+Sides = 1
+Sides = 2
+Sides = 3
+Sides = 4
+Sides = 5
+Sides = 6
+Sides = 7
+Sides = 8
+Sides = 9
+Sides = 10
+Sides = 11
+Sides = 12
+running addRoll
+[]
+running addRoll
+[]
+running addRoll
+[]
+running addRoll
+[]
+Sides = 1
+Sides = 2
+Sides = 3
+Sides = 4
+Sides = 5
+Sides = 6
+Sides = 7
+Times = 1
+Times = 2
+Times = 3
+Times = 4
+Times = 5
+running addRoll
+[7, 2, 6, 2, 1]
+-------------start program-------------------
+2023-05-28 23:47:19.883179
+running diceSection
+-------------start program-------------------
+2023-05-28 23:48:32.295732
+running diceSection
+[15]
+[18]
+[17]
+[9]
+[9]
+[7]
+[7]
+[13]
+[9]
+[6]
+[20]
+[6]
+[16]
+[7]
+[3]
+[16]
+[2]
+[20]
+[15]
+[17]
+[18]
+[20]
+[4]
+[7]
+[5]
+[18]
+[19]
+[9]
+[20]
+[10]
+[4]
+[4]
+[18]
+[9]
+[12]
+[9]
+[11]
+[1]
+[12]
+[16]
+[8]
+[11]
+-------------start program-------------------
+2023-05-28 23:50:02.281430
+running diceSection
+running oneDx
+[9]
+[18]
+[7]
+[14]
+[9]
+[16]
+[20]
+[17]
+[19]
+[16]
+[15]
+[5]
+[5]
+[3]
+-------------start program-------------------
+2023-05-28 23:53:15.040103
+running diceSection
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+[99]
+[56]
+[5]
+[8]
+[67]
+[71]
+[51]
+[69]
+[15]
+-------------start program-------------------
+2023-05-28 23:54:48.555912
+running diceSection
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+-------------start program-------------------
+2023-05-28 23:55:34.420417
+running diceSection
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+[58]
+[54]
+[14]
+[8]
+[40]
+[42]
+[32]
+[72]
+[10]
+[99]
+[3]
+[93]
+[59]
+[27]
+[99]
+[35]
+[84]
+-------------start program-------------------
+2023-05-28 23:56:39.722363
+running diceSection
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+[59]
+[25]
+[46]
+[24]
+[75]
+[9]
+[17]
+[39]
+[85]
+[29]
+[72]
+[55]
+[100]
+[10]
+[25]
+-------------start program-------------------
+2023-05-28 23:57:15.268530
+running diceSection
+-------------start program-------------------
+2023-05-28 23:57:48.601920
+running diceSection
+-------------start program-------------------
+2023-05-29 00:00:05.596259
+running diceSection
+-------------start program-------------------
+2023-05-29 00:02:08.052526
+running diceSection
+-------------start program-------------------
+2023-05-29 00:02:36.934470
+running diceSection
+-------------start program-------------------
+2023-05-29 00:03:17.576928
+running diceSection
+-------------start program-------------------
+2023-05-29 00:03:51.929164
+running diceSection
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+-------------start program-------------------
+2023-05-29 00:04:26.475289
+running diceSection
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+[91]
+[40]
+-------------start program-------------------
+2023-05-29 00:05:14.622218
+running diceSection
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+[48]
+[29]
+[79]
+[26]
+[15]
+[12]
+[94]
+[84]
+[36]
+[57]
+[86]
+[49]
+[38]
+[82]
+[41]
+[56]
+[23]
+[72]
+[95]
+[11]
+[87]
+[73]
+[72]
+[6]
+[17]
+[16]
+[8]
+[91]
+[64]
+-------------start program-------------------
+2023-05-29 00:06:14.176265
+running diceSection
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+-------------start program-------------------
+2023-05-29 00:18:56.696386
+-------------start program-------------------
+2023-05-29 00:21:36.268519
+-------------start program-------------------
+2023-05-29 00:22:55.107965
+-------------start program-------------------
+2023-05-29 00:23:56.264900
+-------------start program-------------------
+2023-05-29 00:24:39.875016
+-------------start program-------------------
+2023-05-29 00:25:09.524967
+running diceSection
+-------------start program-------------------
+2023-05-29 00:27:53.032350
+running diceSection
+-------------start program-------------------
+2023-05-29 00:29:14.392745
+-------------start program-------------------
+2023-05-29 00:31:55.525577
+running diceSection
+-------------start program-------------------
+2023-05-29 00:32:59.442116
+running diceSection
+-------------start program-------------------
+2023-05-29 00:35:41.376215
+-------------start program-------------------
+2023-05-29 00:35:55.072781
+-------------start program-------------------
+2023-05-29 00:36:28.671410
+-------------start program-------------------
+2023-05-29 00:38:39.548119
+-------------start program-------------------
+2023-05-29 00:39:48.478650
+running diceSection
+-------------start program-------------------
+2023-05-29 00:41:19.227288
+running diceSection
+-------------start program-------------------
+2023-05-29 00:42:37.154724
+running diceSection
+-------------start program-------------------
+2023-05-29 00:47:51.755566
+-------------start program-------------------
+2023-05-29 00:50:39.295823
+-------------start program-------------------
+2023-05-29 00:53:06.142168
+running diceSection
+-------------start program-------------------
+2023-05-29 00:53:35.698972
+running diceSection
+-------------start program-------------------
+2023-05-29 00:54:23.572335
+-------------start program-------------------
+2023-05-29 00:54:40.289408
+running diceSection
+-------------start program-------------------
+2023-05-29 01:03:02.291901
+running diceSection
+-------------start program-------------------
+2023-05-29 01:06:06.125812
+running diceSection
+-------------start program-------------------
+2023-05-29 01:07:11.078094
+-------------start program-------------------
+2023-05-29 01:07:54.097825
+running diceSection
+-------------start program-------------------
+2023-05-29 01:13:14.435606
+running diceSection
+-------------start program-------------------
+2023-05-29 01:13:38.671559
+-------------start program-------------------
+2023-05-29 01:15:16.272245
+-------------start program-------------------
+2023-05-29 01:16:01.097223
+-------------start program-------------------
+2023-05-29 01:16:30.920122
+running diceSection
+-------------start program-------------------
+2023-05-29 01:17:59.037544
+running diceSection
+-------------start program-------------------
+2023-05-29 01:20:36.951905
+-------------start program-------------------
+2023-05-29 01:21:47.231976
+running diceSection
+Sides = 1
+Sides = 2
+Sides = 3
+Sides = 4
+Sides = 5
+Sides = 6
+Sides = 7
+Sides = 8
+Sides = 9
+Sides = 10
+Sides = 11
+Times = 1
+Times = 2
+Times = 3
+Times = 4
+running addRoll
+[5, 10, 9, 10]
+-------------start program-------------------
+2023-05-29 01:22:19.782854
+running diceSection
+Sides = 1
+Sides = 2
+Sides = 3
+Sides = 4
+Sides = 5
+Sides = 6
+Sides = 7
+Sides = 8
+Sides = 9
+Sides = 10
+Sides = 11
+Sides = 12
+Sides = 13
+Sides = 14
+Sides = 15
+Sides = 16
+Sides = 17
+Sides = 18
+Sides = 19
+Sides = 20
+Sides = 21
+Sides = 22
+Times = 1
+Times = 2
+Times = 3
+Times = 4
+Times = 5
+Times = 6
+Times = 7
+Times = 8
+running addRoll
+[13, 15, 6, 3, 14, 20, 12, 2]
+running addRoll
+[]
+running addRoll
+[]
+running addRoll
+[]
+running addRoll
+[]
+running addRoll
+[]
+running addRoll
+[]
+running addRoll
+[]
+-------------start program-------------------
+2023-05-29 01:22:50.181856
+running diceSection
+running oneDx
+-------------start program-------------------
+2023-05-29 01:23:50.930700
+running diceSection
+running oneDx
+-------------start program-------------------
+2023-05-29 12:28:36.914742
+running diceSection
+running oneDx
+-------------start program-------------------
+2023-05-29 12:29:52.559200
+running diceSection
+-------------start program-------------------
+2023-05-29 12:49:14.777640
+running diceSection
+running oneDx
+-------------start program-------------------
+2023-05-29 12:49:55.411641
+running diceSection
+running oneDx
+[16]
+[14]
+[16]
+[3]
+-------------start program-------------------
+2023-05-29 12:51:01.863731
+running diceSection
+running oneDx
+-------------start program-------------------
+2023-05-29 12:51:24.241389
+running diceSection
+running oneDx
+-------------start program-------------------
+2023-05-29 12:51:35.060117
+running diceSection
+running oneDx
+[17]
+[10]
+[5]
+[6]
+[5]
+[15]
+[17]
+[18]
+[5]
+[9]
+[18]
+[11]
+[16]
+[4]
+[18]
+[3]
+[14]
+[17]
+[19]
+[3]
+[3]
+[2]
+[1]
+[19]
+[18]
+[14]
+[16]
+[13]
+[1]
+[14]
+[15]
+-------------start program-------------------
+2023-05-29 13:02:16.584232
+running diceSection
+running oneDx
+[20]
+[11]
+[2]
+[14]
+[18]
+[15]
+[14]
+[9]
+[3]
+[9]
+[20]
+[20]
+[12]
+[4]
+[4]
+[16]
+[12]
+[20]
+[7]
+[15]
+[8]
+[15]
+[17]
+[13]
+[13]
+-------------start program-------------------
+2023-05-29 13:05:56.663824
+running diceSection
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+[50]
+[75]
+[51]
+[69]
+[12]
+[40]
+[72]
+[100]
+[3]
+[90]
+-------------start program-------------------
+2023-05-29 13:12:55.073662
+running diceSection
+running oneDx
+-------------start program-------------------
+2023-05-29 13:13:25.087734
+running diceSection
+running oneDx
+-------------start program-------------------
+2023-05-29 13:19:16.226791
+running diceSection
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+[9]
+[3]
+[9]
+[1]
+[3]
+[77]
+[1]
+[4]
+[2]
+[3]
+[3]
+[6]
+[5]
+[2]
+[2]
+[4]
+[3]
+[5]
+[5]
+[3]
+[1]
+[5]
+[1]
+[2]
+[2]
+[3]
+[4]
+[2]
+[1]
+[8]
+[8]
+[1]
+[2]
+[7]
+[2]
+[2]
+[2]
+[4]
+[7]
+[5]
+[3]
+[11]
+[1]
+[6]
+[12]
+[4]
+[5]
+[3]
+[10]
+[8]
+[7]
+[18]
+[18]
+[15]
+[7]
+[18]
+[10]
+[2]
+[10]
+[15]
+[2]
+[20]
+[2]
+[17]
+[13]
+[19]
+-------------start program-------------------
+2023-05-29 13:21:50.326926
+running diceSection
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+-------------start program-------------------
+2023-05-29 13:23:02.954119
+running diceSection
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+[89]
+[92]
+[71]
+[26]
+[68]
+[28]
+[58]
+[64]
+[16]
+[13]
+[14]
+[97]
+-------------start program-------------------
+2023-05-29 13:24:24.744700
+running diceSection
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+-------------start program-------------------
+2023-05-29 13:24:49.021492
+running diceSection
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+[8]
+[16]
+[10]
+[7]
+[12]
+[11]
+[13]
+[9]
+[18]
+[14]
+[18]
+[15]
+[19]
+[1]
+[6]
+[5]
+[14]
+[5]
+[18]
+[16]
+[4]
+[8]
+[10]
+[12]
+[5]
+[10]
+[10]
+[10]
+[3]
+[2]
+[9]
+[6]
+[8]
+[7]
+[9]
+[1]
+[4]
+[5]
+[8]
+[3]
+[3]
+[6]
+[3]
+[8]
+[1]
+[6]
+[2]
+[8]
+[2]
+[2]
+[6]
+[1]
+[2]
+[7]
+[6]
+[7]
+[1]
+[3]
+[2]
+[3]
+[3]
+[4]
+[3]
+[2]
+[4]
+[3]
+[2]
+[3]
+[3]
+[1]
+[2]
+[3]
+[2]
+[1]
+[1]
+[46]
+[73]
+[64]
+[20]
+[39]
+[25]
+[91]
+[4]
+[78]
+[51]
+[95]
+[31]
+[19]
+[50]
+[76]
+[70]
+[31]
+[49]
+-------------start program-------------------
+2023-05-29 13:33:34.024278
+-------------start program-------------------
+2023-05-29 13:36:11.720418
+-------------start program-------------------
+2023-05-29 13:39:36.773485
+-------------start program-------------------
+2023-05-29 13:41:40.244687
+-------------start program-------------------
+2023-05-29 13:43:10.017013
+-------------start program-------------------
+2023-05-29 13:47:19.883239
+-------------start program-------------------
+2023-05-29 13:48:13.509735
+-------------start program-------------------
+2023-05-29 13:52:27.990482
+-------------start program-------------------
+2023-05-29 13:54:48.727742
+-------------start program-------------------
+2023-05-29 13:55:58.343679
+-------------start program-------------------
+2023-05-29 13:56:43.567522
+-------------start program-------------------
+2023-05-29 13:58:35.750851
+running diceSection
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+[4]
+[71]
+[2]
+[6]
+[9]
+[7]
+[18]
+[16]
+[16]
+[6]
+[3]
+[3]
+[6]
+[41]
+[10]
+[85]
+[16]
+[3]
+[4]
+-------------start program-------------------
+2023-05-29 13:59:30.449897
+-------------start program-------------------
+2023-05-29 14:00:09.567034
+-------------start program-------------------
+2023-05-29 14:05:31.454361
+running diceSection
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+-------------start program-------------------
+2023-05-29 14:05:42.286858
+running diceSection
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+[11]
+[3]
+[10]
+[5]
+-------------start program-------------------
+2023-05-29 14:06:44.096776
+running diceSection
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+-------------start program-------------------
+2023-05-29 14:07:35.979667
+running diceSection
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+[12]
+[10]
+[2]
+[5]
+[3]
+[4]
+[62]
+[18]
+[24]
+[43]
+[43]
+[67]
+[22]
+[18]
+[31]
+[99]
+[25]
+[58]
+[63]
+[54]
+[62]
+[44]
+[24]
+[5]
+[21]
+[51]
+[73]
+[59]
+[25]
+[56]
+[91]
+[88]
+-------------start program-------------------
+2023-05-29 14:08:57.798107
+running diceSection
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+[16]
+[2]
+[4]
+-------------start program-------------------
+2023-05-29 14:10:33.666806
+running diceSection
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+-------------start program-------------------
+2023-05-29 14:14:42.153603
+running diceSection
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+-------------start program-------------------
+2023-05-29 14:17:00.439551
+running diceSection
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+-------------start program-------------------
+2023-05-29 14:17:37.510220
+running diceSection
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+-------------start program-------------------
+2023-05-29 14:27:37.840089
+running diceSection
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+[7]
+[10]
+-------------start program-------------------
+2023-05-29 14:28:05.270635
+-------------start program-------------------
+2023-05-29 14:29:37.742892
+running diceSection
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+-------------start program-------------------
+2023-05-29 14:31:50.340502
+running diceSection
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+-------------start program-------------------
+2023-05-29 14:32:08.711300
+running diceSection
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+-------------start program-------------------
+2023-05-29 14:34:25.475167
+running diceSection
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+-------------start program-------------------
+2023-05-29 14:38:04.310803
+running diceSection
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+-------------start program-------------------
+2023-05-29 15:01:27.164666
+-------------start program-------------------
+2023-05-29 15:01:48.189936
+running diceSection
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+-------------start program-------------------
+2023-05-29 15:02:41.109467
+running diceSection
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+-------------start program-------------------
+2023-05-29 15:06:58.466511
+running diceSection
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+-------------start program-------------------
+2023-05-29 15:10:05.502172
+running diceSection
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+-------------start program-------------------
+2023-05-29 15:13:49.482670
+-------------start program-------------------
+2023-05-29 15:15:02.553469
+-------------start program-------------------
+2023-05-29 15:15:52.556519
+running diceSection
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+-------------start program-------------------
+2023-05-29 15:16:54.486045
+-------------start program-------------------
+2023-05-29 15:17:57.846306
+-------------start program-------------------
+2023-05-29 15:18:44.293601
+running diceSection
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+-------------start program-------------------
+2023-05-29 15:19:51.279602
+running diceSection
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+-------------start program-------------------
+2023-05-29 15:25:01.687899
+-------------start program-------------------
+2023-05-29 15:26:39.910311
+-------------start program-------------------
+2023-05-29 15:27:17.853481
+-------------start program-------------------
+2023-05-29 15:28:25.666422
+-------------start program-------------------
+2023-05-29 15:29:27.471920
+-------------start program-------------------
+2023-05-29 15:30:13.737685
+-------------start program-------------------
+2023-05-29 15:30:35.273238
+running diceSection
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+-------------start program-------------------
+2023-05-29 15:31:13.248772
+running diceSection
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+-------------start program-------------------
+2023-05-29 15:31:30.289370
+running diceSection
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+-------------start program-------------------
+2023-05-29 15:34:24.019264
+running diceSection
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+-------------start program-------------------
+2023-05-29 15:35:43.542318
+running diceSection
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+-------------start program-------------------
+2023-05-29 15:36:24.678595
+running diceSection
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+-------------start program-------------------
+2023-05-29 15:37:36.533597
+-------------start program-------------------
+2023-05-29 15:38:08.984488
+-------------start program-------------------
+2023-05-29 15:40:16.426046
+running diceSection
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+-------------start program-------------------
+2023-05-29 15:40:55.896255
+running diceSection
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+-------------start program-------------------
+2023-05-29 15:42:57.036550
+-------------start program-------------------
+2023-05-29 15:43:40.669509
+-------------start program-------------------
+2023-05-29 15:44:19.820914
+running diceSection
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+-------------start program-------------------
+2023-05-29 15:44:49.889467
+running diceSection
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+-------------start program-------------------
+2023-05-29 15:45:17.862824
+-------------start program-------------------
+2023-05-29 15:45:55.872633
+-------------start program-------------------
+2023-05-29 15:47:19.069306
+running diceSection
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+-------------start program-------------------
+2023-05-29 15:49:05.020667
+running diceSection
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+-------------start program-------------------
+2023-05-29 15:51:39.774012
+running diceSection
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+-------------start program-------------------
+2023-05-29 15:53:04.418969
+-------------start program-------------------
+2023-05-29 15:53:31.920596
+-------------start program-------------------
+2023-05-29 15:54:10.613749
+running diceSection
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+-------------start program-------------------
+2023-05-29 15:55:36.325866
+running diceSection
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+-------------start program-------------------
+2023-05-29 15:55:55.502649
+running diceSection
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+-------------start program-------------------
+2023-05-29 15:56:56.140040
+running diceSection
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+-------------start program-------------------
+2023-05-29 15:57:10.739438
+-------------start program-------------------
+2023-05-29 15:59:53.673796
+-------------start program-------------------
+2023-05-29 16:03:10.954590
+-------------start program-------------------
+2023-05-29 16:04:12.911497
+running diceSection
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+[12]
+[9]
+[11]
+[1]
+[7]
+[13]
+[14]
+[3]
+[16]
+[20]
+[7]
+[12]
+[10]
+[4]
+[3]
+[12]
+[7]
+[7]
+[1]
+[10]
+[8]
+[6]
+[3]
+[1]
+[9]
+[6]
+[3]
+[2]
+[9]
+[10]
+[6]
+[9]
+-------------start program-------------------
+2023-05-29 16:09:40.458616
+running diceSection
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+-------------start program-------------------
+2023-05-29 16:12:55.949512
+running diceSection
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+-------------start program-------------------
+2023-05-29 16:13:29.770847
+running diceSection
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+-------------start program-------------------
+2023-05-29 16:15:30.279439
+running diceSection
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+-------------start program-------------------
+2023-05-29 16:16:54.989236
+running diceSection
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+-------------start program-------------------
+2023-05-29 16:17:39.671195
+running diceSection
+-------------start program-------------------
+2023-05-29 16:17:59.653539
+running diceSection
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running addRoll
+[]
+running addRoll
+[]
+running addRoll
+[]
+running addRoll
+[]
+Sides = 1
+Sides = 2
+Sides = 3
+Sides = 4
+Sides = 5
+Sides = 6
+Sides = 7
+Sides = 8
+Sides = 9
+Sides = 10
+Sides = 11
+Sides = 12
+Times = 1
+Times = 2
+Times = 3
+Times = 4
+Times = 5
+Times = 6
+Times = 7
+Times = 8
+Times = 9
+Times = 10
+running addRoll
+[11, 5, 10, 7, 5, 10, 1, 8, 3, 12]
+running addRoll
+[]
+running addRoll
+[]
+running addRoll
+[]
+running addRoll
+[]
+-------------start program-------------------
+2023-05-29 16:19:01.729555
+running diceSection
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+-------------start program-------------------
+2023-05-29 16:20:15.383737
+running diceSection
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+[81]
+[47]
+[82]
+[3]
+[64]
+[2]
+[9]
+[38]
+[51]
+[79]
+[95]
+[75]
+[36]
+[69]
+[79]
+[5]
+[75]
+[97]
+[67]
+[49]
+[51]
+[53]
+[12]
+[22]
+[36]
+[37]
+[78]
+[78]
+[78]
+[7]
+[8]
+[87]
+[52]
+-------------start program-------------------
+2023-05-29 16:22:22.716429
+running diceSection
+-------------start program-------------------
+2023-05-29 16:23:17.496599
+running diceSection
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+-------------start program-------------------
+2023-05-29 16:26:29.179593
+running diceSection
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+-------------start program-------------------
+2023-05-29 16:27:06.902530
+-------------start program-------------------
+2023-05-29 16:27:35.579810
+running diceSection
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+-------------start program-------------------
+2023-05-30 15:24:56.454495
+running diceSection
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+-------------start program-------------------
+2023-05-30 15:26:29.107951
+running diceSection
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+-------------start program-------------------
+2023-06-06 20:06:17.421402
+running diceSection
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+-------------start program-------------------
+2023-06-06 20:07:24.739386
+running diceSection
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+-------------start program-------------------
+2023-06-06 20:09:10.348053
+-------------start program-------------------
+2023-06-06 20:09:58.219690
+running diceSection
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running oneDx
+running addRoll
+[]
+running addRoll
+[]
+running addRoll
+[]
+running addRoll
+[]
+running addRoll
+[]
+running addRoll
+[]
+running addRoll
+[]
